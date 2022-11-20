@@ -1,0 +1,3 @@
+/Game/InventorySystem/UMG/WBP_InventoryDragVisual.Default__WBP_InventoryDragVisual_C
+/Game/InventorySystem/UMG/WBP_InventoryDragVisual.WBP_InventoryDragVisual_C
+/Game/InventorySystem/UMG/WBP_InventoryDragVisual.WBP_InventoryDragVisual_C:ExecuteUbergraph_WBP_InventoryDragVisual:CallFunc_LookupItem_Info

@@ -1,0 +1,3 @@
+/Game/InventorySystem/UMG/WBP_RequiredCraftingItem.Default__WBP_RequiredCraftingItem_C
+/Game/InventorySystem/UMG/WBP_RequiredCraftingItem.WBP_RequiredCraftingItem_C
+/Game/InventorySystem/UMG/WBP_RequiredCraftingItem.WBP_RequiredCraftingItem_C:ExecuteUbergraph_WBP_RequiredCraftingItem:CallFunc_LookupItem_Info

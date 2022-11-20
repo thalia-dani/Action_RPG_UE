@@ -1,0 +1,3 @@
+/Game/InventorySystem/UMG/WBP_CraftingSlot.Default__WBP_CraftingSlot_C
+/Game/InventorySystem/UMG/WBP_CraftingSlot.WBP_CraftingSlot_C
+/Game/InventorySystem/UMG/WBP_CraftingSlot.WBP_CraftingSlot_C:ExecuteUbergraph_WBP_CraftingSlot:CallFunc_LookupItem_Info

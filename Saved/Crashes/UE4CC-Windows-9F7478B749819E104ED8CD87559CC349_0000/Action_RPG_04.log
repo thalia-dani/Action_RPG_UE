@@ -1,0 +1,1360 @@
+﻿Log file open, 06/21/21 13:57:33
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Action_RPG_04
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.272732
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/lsdru/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz, GPU: NVIDIA GeForce GTX 1660
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Engine.ini]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Engine.ini]
+[2021.06.21-16.57.33:455][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Engine.ini]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Engine.ini]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.21-16.57.33:455][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Engine.ini]
+[2021.06.21-16.57.33:455][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Engine.ini]
+[2021.06.21-16.57.33:458][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.21-16.57.33:458][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.21-16.57.33:459][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.21-16.57.33:459][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.21-16.57.33:459][  0]LogHAL: Display: Platform has ~ 16 GB [17088389120 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.21-16.57.33:459][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.21-16.57.33:459][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.21-16.57.33:459][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Scalability.ini]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.21-16.57.33:460][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.21-16.57.33:461][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.21-16.57.33:461][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.21-16.57.33:461][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.21-16.57.33:461][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Engine.ini]
+[2021.06.21-16.57.33:461][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Config/Windows/Editor.ini]
+[2021.06.21-16.57.33:461][  0]LogInit: Computer: DESK-LUCIANO
+[2021.06.21-16.57.33:461][  0]LogInit: User: lsdru
+[2021.06.21-16.57.33:461][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.06.21-16.57.33:461][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.21-16.57.33:461][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.06.21-16.57.33:461][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.21-16.57.33:461][  0]LogMemory: Process Physical Memory: 136.96 MB used, 136.97 MB peak
+[2021.06.21-16.57.33:461][  0]LogMemory: Process Virtual Memory: 112.02 MB used, 112.02 MB peak
+[2021.06.21-16.57.33:461][  0]LogMemory: Physical Memory: 6076.04 MB used,  10220.72 MB free, 16296.76 MB total
+[2021.06.21-16.57.33:461][  0]LogMemory: Virtual Memory: 134202056.00 MB used,  15673.70 MB free, 134217728.00 MB total
+[2021.06.21-16.57.33:464][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.21-16.57.33:492][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.21-16.57.33:493][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.06.21-16.57.33:493][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2021.06.21-16.57.33:631][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.21-16.57.33:639][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.21-16.57.33:648][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.21-16.57.33:648][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.21-16.57.39:149][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.06.21-16.57.39:149][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.21-16.57.39:149][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.21-16.57.39:149][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.21-16.57.39:249][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660' (Feature Level 11_0)
+[2021.06.21-16.57.39:249][  0]LogD3D11RHI:       5991/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.21-16.57.39:250][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.21-16.57.39:250][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.21-16.57.39:250][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.21-16.57.39:254][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.21-16.57.39:255][  0]LogD3D11RHI:     GPU DeviceId: 0x2184 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.21-16.57.39:255][  0]LogWindows: EnumDisplayDevices:
+[2021.06.21-16.57.39:255][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660' (P:1 D:1)
+[2021.06.21-16.57.39:255][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660' (P:0 D:0)
+[2021.06.21-16.57.39:255][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660' (P:0 D:0)
+[2021.06.21-16.57.39:255][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660' (P:0 D:0)
+[2021.06.21-16.57.39:255][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.21-16.57.39:255][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660
+[2021.06.21-16.57.39:255][  0]LogD3D11RHI:   Driver Version: 462.59 (internal:27.21.14.6259, unified:462.59)
+[2021.06.21-16.57.39:255][  0]LogD3D11RHI:      Driver Date: 5-6-2021
+[2021.06.21-16.57.39:255][  0]LogRHI: Texture pool is 4193 MB (70% of 5991 MB)
+[2021.06.21-16.57.39:320][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.21-16.57.39:320][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.21-16.57.39:320][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.21-16.57.39:333][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.21-16.57.39:334][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.21-16.57.39:740][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.21-16.57.39:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.21-16.57.39:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.21-16.57.39:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.21-16.57.39:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.21-16.57.39:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.21-16.57.39:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.21-16.57.39:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.21-16.57.39:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.21-16.57.39:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.21-16.57.39:758][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.21-16.57.39:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.21-16.57.39:777][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.21-16.57.39:786][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.21-16.57.39:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.21-16.57.39:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.21-16.57.39:807][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.21-16.57.39:814][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.21-16.57.39:821][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.21-16.57.39:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.21-16.57.39:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.21-16.57.39:851][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.21-16.57.39:857][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.21-16.57.39:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.21-16.57.39:871][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.21-16.57.39:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.21-16.57.39:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.21-16.57.39:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.21-16.57.39:898][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.21-16.57.39:905][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.21-16.57.39:912][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.21-16.57.39:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.21-16.57.39:919][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.21-16.57.39:924][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.21-16.57.39:968][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.21-16.57.39:968][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Intermediate/Shaders/WorkingDirectory/16332/).
+[2021.06.21-16.57.39:968][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lsdru/AppData/Local/Temp/UnrealShaderWorkingDir/6C9F42224B055898F9092D838A268794/'.
+[2021.06.21-16.57.39:968][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.21-16.57.39:968][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.21-16.57.40:622][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.21-16.57.40:661][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/lsdru/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.21-16.57.40:661][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lsdru/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.21-16.57.40:661][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/_Arquivos HD/Unreal Projects/Action_RPG_04/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.21-16.57.40:661][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.21-16.57.40:661][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/_Arquivos HD/Unreal Projects/Action_RPG_04/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.21-16.57.40:661][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.21-16.57.40:672][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.21-16.57.40:672][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.21-16.57.40:672][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.21-16.57.40:680][  0]LogDerivedDataCache: Speed tests for C:/Users/lsdru/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.06.21-16.57.40:680][  0]LogDerivedDataCache: Display: Performance to C:/Users/lsdru/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=286.50MBs, RandomWriteSpeed=212.05MBs. Assigned SpeedClass 'Local'
+[2021.06.21-16.57.40:681][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lsdru/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.21-16.57.40:681][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.21-16.57.40:681][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.21-16.57.40:722][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.21-16.57.40:722][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.21-16.57.40:742][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2021.06.21-16.57.40:929][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.21-16.57.40:930][  0]LogInit: Active device profile: [0000025284B26200][00000252F43C9380 49] Windows
+[2021.06.21-16.57.40:930][  0]LogInit: Profiles: [0000025284B26200][00000252F43C9380 49] Windows, [0000025284A0A000][000002528260B500 49] WindowsNoEditor, [0000025284B25700][00000252F43CD640 49] WindowsServer, [0000025284A09600][0000025283043780 49] WindowsClient, [0000025284B26000][000002528304F8C0 49] IOS, [0000025284A0B500][0000025283057A00 49] iPadAir, [0000025284B24200][0000025283087B80 49] iPadAir2, [00000252847ADF00][000002528308E180 49] IPadPro, [00000252847AE000][000002528308A1C0 49] iPadAir3, [0000025284A0AC00][0000025283092340 49] iPadAir4, [00000252847AF800][000002528309A4C0 49] iPadMini2, [0000025284A08900][000002528309E640 49] iPadMini3, [00000252847AD400][00000252830A27C0 49] iPadMini4, [0000025284A09300][00000252830A6940 49] iPadMini5, [0000025284815800][00000252830B6C00 49] iPhone6, [0000025284815900][00000252830AEC40 49] iPodTouch6, [00000252847AE100][00000252830BEF00 49] iPhone7, [00000252847AFD00][00000252830BAF40 49] iPodTouch7, [0000025284817000][00000252830CF0C0 49] iPhone5S, [00000252847AEF00][00000252830D3240 49] iPhone6Plus, [0000025284815600][00000252830D73C0 49] iPhone6S, [00000252847ACE00][00000252830DB540 49] iPhone6SPlus, [0000025284814700][0000025283083680 49] iPhone7Plus, [00000252847ACA00][00000252830DF7C0 49] iPhoneSE, [0000025284816800][00000252830E3900 49] iPhone8, [00000252847AFC00][00000252830E7A40 49] iPhone8Plus, [0000025284814500][00000252830EFBC0 49] iPhoneX, [00000252847AEC00][00000252830F3D40 49] iPhoneXS, [0000025284816500][00000252830F6200 49] iPhoneXSMax, [00000252847AD500][00000252830FA380 49] iPhoneXR, [0000025284814D00][000002528311E500 49] iPhone11, [00000252847AE600][0000025283122680 49] iPhone11Pro, [0000025284816600][0000025283126800 49] iPhone11ProMax, [00000252847AD100][000002528312A980 49] iPhoneSE2, [0000025284816700][000002528312EB00 49] iPhone12Mini, [00000252847AE200][0000025283132C80 49] iPhone12, [0000025284816000][0000025283136E00 49] iPhone12Pro, [00000252847AE300][0000025283166F80 49] iPhone12ProMax, [0000025284B26700][000002528316B100 49] iPadPro105, [00000252847AC200][000002528316F280 49] iPadPro129, [0000025284B26A00][0000025283173400 49] iPadPro97, [00000252847AFE00][0000025283177580 49] iPadPro2_129, [0000025284B24800][000002528317B700 49] iPad5, [00000252847ACC00][00000252830EB840 49] iPad6, [0000025284B25600][000002528317F980 49] iPad7, [00000252847AC900][0000025283183AC0 49] iPad8, [0000025284B25F00][000002528318BC40 49] iPadPro11, [00000252847ADB00][000002528318E100 49] iPadPro2_11, [0000025284B25D00][00000252831CE280 49] iPadPro3_129, [00000252847AEB00][00000252831D2400 49] iPadPro4_129, [0000025284B26900][00000252831D6580 49] AppleTV, [00000252847AED00][00000252831DA700 49] AppleTV4K, [0000025284B25A00][00000252831DE880 49] TVOS, [00000252847AC400][00000252831E2A00 49] Mac, [0000025284B24F00][00000252831E6B80 49] MacClient, [00000252847AF200][00000252831EAD00 49] MacNoEditor, [0000025284B26C00][00000252831EEE80 49] MacServer, [00000252847AF500][00000252831F3000 49] Linux, [0000025284B24D00][00000252831F7180 49] LinuxAArch64, [00000252847AF700][00000252831FB300 49] LinuxNoEditor, [0000025284B25B00][00000252831FF480 49] LinuxAArch64NoEditor, [00000252847ACB00][0000025283203600 49] LinuxClient, [0000025284B26800][0000025283207780 49] LinuxAArch64Client, [00000252847ADC00][00000252831878C0 49] LinuxServer, [0000025284B25800][000002528320BA00 49] LinuxAArch64Server, [00000252847AFB00][000002528320FB40 49] Android, [0000025284B25400][0000025283217CC0 49] Android_Low, [00000252847AD200][000002528321A180 49] Android_Mid, [0000025284B27200][000002528321E300 49] Android_High, [00000252847AEA00][0000025283222480 49] Android_Default, [0000025284B26100][0000025283226600 49] Android_Adreno4xx, [00000252847AC500][000002528322A780 49] Android_Adreno5xx_Low, [0000025284B27500][000002528322E900 49] Android_Adreno5xx, [00000252847AF300][0000025283232A80 49] Android_Adreno6xx, [0000025284B25300][0000025283236C00 49] Android_Adreno6xx_Vulkan, [00000252847ADE00][000002528323AD80 49] Android_Mali_T6xx, [0000025284B24A00][0000025282A30F00 49] Android_Mali_T7xx, [00000252847AD300][0000025282A35080 49] Android_Mali_T8xx, [0000025284A0A200][0000025282A39200 49] Android_Mali_G71, [0000025284817800][0000025282A3D380 49] Android_Mali_G72, [0000025284A09100][0000025282A41500 49] Android_Mali_G72_Vulkan, [0000025284815700][0000025282A45680 49] Android_Mali_G76, [0000025284A08C00][0000025282A49800 49] Android_Mali_G76_Vulkan, [0000025284817C00][0000025283213940 49] Android_Mali_G77, [0000025284A0BD00][0000025282A4DA80 49] Android_Mali_G77_Vulkan, [0000025284817E00][0000025282A51BC0 49] Android_Vulkan_SM5, [0000025284A0B400][0000025282A55D00 49] Android_PowerVR_G6xxx, [0000025284817300][0000025282A5C1C0 49] Android_PowerVR_GT7xxx, [0000025284A09A00][0000025282A60340 49] Android_PowerVR_GE8xxx, [0000025284816100][0000025282A644C0 49] Android_PowerVR_GM9xxx, [0000025284A08400][0000025282A68640 49] Android_PowerVR_GM9xxx_Vulkan, [0000025284817F00][0000025282A6C7C0 49] Android_TegraK1, [0000025284A0A900][0000025282A70940 49] Android_Unknown_Vulkan, [0000025284816F00][0000025282A74AC0 49] Lumin, [0000025284A08B00][0000025282A78C40 49] Lumin_Desktop, [0000025284817700][0000025282A7CDC0 49] HoloLens, 
+[2021.06.21-16.57.41:016][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.21-16.57.41:016][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.21-16.57.41:016][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.21-16.57.41:016][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.21-16.57.41:016][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.21-16.57.41:029][  0]LogNetVersion: Action_RPG_04 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 212067903)
+[2021.06.21-16.57.41:353][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.21-16.57.41:382][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.028417 seconds
+[2021.06.21-16.57.41:387][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.06.21-16.57.41:387][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.06.21-16.57.41:387][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.21-16.57.41:683][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.21-16.57.41:687][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.21-16.57.41:770][  0]SourceControl: Source control is disabled
+[2021.06.21-16.57.41:770][  0]SourceControl: Source control is disabled
+[2021.06.21-16.57.41:772][  0]SourceControl: Source control is disabled
+[2021.06.21-16.57.41:775][  0]SourceControl: Source control is disabled
+[2021.06.21-16.57.41:779][  0]SourceControl: Source control is disabled
+[2021.06.21-16.57.41:784][  0]LogUProjectInfo: Found projects:
+[2021.06.21-16.57.41:901][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.21-16.57.41:916][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.21-16.57.41:916][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.21-16.57.41:960][  0]LogCollectionManager: Loaded 0 collections in 0.001132 seconds
+[2021.06.21-16.57.41:979][  0]LogFileCache: Scanning file cache for directory 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Collections/' took 0.00s
+[2021.06.21-16.57.41:979][  0]LogFileCache: Scanning file cache for directory 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/Developers/lsdru/Collections/' took 0.00s
+[2021.06.21-16.57.41:979][  0]LogFileCache: Scanning file cache for directory 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/Collections/' took 0.00s
+[2021.06.21-16.57.41:979][  0]LogOcInput: OculusInput pre-init called
+[2021.06.21-16.57.41:988][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.06.21-16.57.41:988][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.06.21-16.57.42:028][  0]LogEngine: Initializing Engine...
+[2021.06.21-16.57.42:070][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2021.06.21-16.57.42:070][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.21-16.57.42:071][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.06.21-16.57.42:155][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.21-16.57.42:161][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.21-16.57.42:170][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.21-16.57.42:173][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.21-16.57.42:173][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.21-16.57.42:173][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.21-16.57.42:173][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.21-16.57.42:173][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.21-16.57.42:173][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.21-16.57.42:173][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.21-16.57.42:173][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.21-16.57.42:173][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.21-16.57.42:173][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.21-16.57.42:173][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.21-16.57.42:173][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.21-16.57.42:182][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.21-16.57.42:182][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.21-16.57.42:323][  0]LogAudioMixer: Display: Using Audio Device Alto-falantes (PRO)
+[2021.06.21-16.57.42:326][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.21-16.57.42:328][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.21-16.57.42:328][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.21-16.57.42:328][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.21-16.57.42:329][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.21-16.57.42:329][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.21-16.57.42:329][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.21-16.57.42:329][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.21-16.57.42:329][  0]LogInit: FAudioDevice initialized.
+[2021.06.21-16.57.42:330][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.21-16.57.42:330][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.21-16.57.42:366][  0]LogDerivedDataCache: Saved boot cache 0.04s 77MB C:/Users/lsdru/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.21-16.57.42:366][  0]LogInit: Texture streaming: Enabled
+[2021.06.21-16.57.42:375][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.06.21-16.57.42:377][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.21-16.57.42:377][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.21-16.57.42:380][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.21-16.57.42:397][  0]LogInit: Transaction tracking system initialized
+[2021.06.21-16.57.42:413][  0]BlueprintLog: New page: Editor Load
+[2021.06.21-16.57.42:464][  0]LocalizationService: Localization service is disabled
+[2021.06.21-16.57.42:483][  0]TimingProfiler: Initialize
+[2021.06.21-16.57.42:483][  0]TimingProfiler: OnSessionChanged
+[2021.06.21-16.57.42:483][  0]LoadingProfiler: Initialize
+[2021.06.21-16.57.42:483][  0]LoadingProfiler: OnSessionChanged
+[2021.06.21-16.57.42:483][  0]NetworkingProfiler: Initialize
+[2021.06.21-16.57.42:483][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.21-16.57.42:483][  0]MemoryProfiler: Initialize
+[2021.06.21-16.57.42:483][  0]MemoryProfiler: OnSessionChanged
+[2021.06.21-16.57.42:585][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.21-16.57.42:585][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.21-16.57.42:693][  0]LogFileCache: Scanning file cache for directory 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/' took 0.01s
+[2021.06.21-16.57.42:826][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.06.21-16.57.42:829][  0]SourceControl: Source control is disabled
+[2021.06.21-16.57.42:829][  0]LogUnrealEdMisc: Loading editor; pre map load, took 10.137
+[2021.06.21-16.57.42:829][  0]Cmd: MAP LOAD FILE="E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.21-16.57.42:833][  0]LightingResults: New page: Lighting Build
+[2021.06.21-16.57.42:834][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-16.57.42:834][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-16.57.42:834][  0]MapCheck: New page: Map Check
+[2021.06.21-16.57.42:834][  0]LightingResults: New page: Lighting Build
+[2021.06.21-16.57.42:840][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.06.21-16.57.43:311][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.06.21-16.57.43:311][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.21-16.57.43:314][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.21-16.57.43:321][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.06.21-16.57.43:321][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.21-16.57.43:321][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2021.06.21-16.57.43:321][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.492
+[2021.06.21-16.57.43:323][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.631
+[2021.06.21-16.57.43:717][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.06.21-16.57.43:766][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-16.57.43:771][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-16.57.43:775][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-16.57.43:780][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-16.57.43:792][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0085 seconds. Added 3601 classes and 859 folders.
+[2021.06.21-16.57.43:795][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.21-16.57.43:796][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.21-16.57.43:796][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:796][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.21-16.57.43:796][  0]LogPakFile: OnPakFileMounted2Time == 0.000005
+[2021.06.21-16.57.43:796][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.21-16.57.43:796][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:796][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.21-16.57.43:796][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.06.21-16.57.43:797][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.21-16.57.43:797][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:797][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.21-16.57.43:797][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.06.21-16.57.43:797][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.21-16.57.43:797][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:797][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.21-16.57.43:797][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.06.21-16.57.43:798][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.21-16.57.43:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.21-16.57.43:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.06.21-16.57.43:798][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.21-16.57.43:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.21-16.57.43:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.06.21-16.57.43:798][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.21-16.57.43:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.21-16.57.43:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.06.21-16.57.43:799][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.21-16.57.43:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.21-16.57.43:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.06.21-16.57.43:799][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.21-16.57.43:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.21-16.57.43:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.06.21-16.57.43:799][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.21-16.57.43:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.21-16.57.43:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.06.21-16.57.43:800][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.21-16.57.43:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.21-16.57.43:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.06.21-16.57.43:800][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.21-16.57.43:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.21-16.57.43:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.06.21-16.57.43:801][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.21-16.57.43:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.21-16.57.43:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.06.21-16.57.43:801][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.21-16.57.43:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.21-16.57.43:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.06.21-16.57.43:801][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.21-16.57.43:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.21-16.57.43:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.06.21-16.57.43:802][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.21-16.57.43:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.21-16.57.43:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.06.21-16.57.43:802][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.21-16.57.43:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.21-16.57.43:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.06.21-16.57.43:803][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.21-16.57.43:803][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:803][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.21-16.57.43:803][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.06.21-16.57.43:803][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.21-16.57.43:803][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:803][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.21-16.57.43:803][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.06.21-16.57.43:803][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.21-16.57.43:803][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:803][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.21-16.57.43:803][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.06.21-16.57.43:804][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.21-16.57.43:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.21-16.57.43:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.06.21-16.57.43:804][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.21-16.57.43:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.21-16.57.43:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.06.21-16.57.43:805][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.21-16.57.43:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.21-16.57.43:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.06.21-16.57.43:805][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.21-16.57.43:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.21-16.57.43:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.06.21-16.57.43:805][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.21-16.57.43:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.21-16.57.43:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.06.21-16.57.43:806][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.21-16.57.43:806][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.21-16.57.43:806][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.21-16.57.43:806][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.06.21-16.57.43:833][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.21-16.57.43:834][  0]LogSlate: The tab "ComposureLayers" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2021.06.21-16.57.43:883][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.06.21-16.57.43:919][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.21-16.57.43:921][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.21-16.57.43:994][  0]LogRenderer: Reallocating scene render targets to support 1428x620 Format 10 NumSamples 1 (Frame:1).
+[2021.06.21-16.57.44:287][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.06.21-16.57.44:287][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.06.21-16.57.44:287][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.06.21-16.57.44:287][  0]LogLoad: (Engine Initialization) Total time: 11.59 seconds
+[2021.06.21-16.57.44:287][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.21-16.57.44:287][  0]LogInit: First time updating LLM stats...
+[2021.06.21-16.57.44:335][  0]LogAssetRegistry: Asset discovery search completed in 3.5939 seconds
+[2021.06.21-16.57.44:336][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.06.21-16.57.44:355][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.21-17.27.58:717][983]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.06.21-17.27.58:721][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.21-17.27.58:722][983]PIE: New page: PIE session: ThirdPersonExampleMap (Jun 21, 2021, 11:27:58 AM)
+[2021.06.21-17.27.58:723][983]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.21-17.27.58:724][983]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.21-17.27.58:724][983]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.21-17.27.58:735][983]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010724s)
+[2021.06.21-17.27.58:736][983]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.21-17.27.58:737][983]LogPlayLevel: PIE: World Init took: (0.001186s)
+[2021.06.21-17.27.58:737][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012045s)
+[2021.06.21-17.27.58:743][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.06.21-17.27.58:744][983]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.21-17.27.58:744][983]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.21-17.27.58:744][983]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.21-17.27.58:744][983]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.21-17.27.58:744][983]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.21-17.27.58:744][983]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.21-17.27.58:744][983]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.21-17.27.58:744][983]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.21-17.27.58:744][983]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.21-17.27.58:745][983]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.21-17.27.58:745][983]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.21-17.27.58:748][983]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.21-17.27.58:748][983]LogAudioMixer: Display: 1: FrontRight
+[2021.06.21-17.27.58:755][983]LogAudioMixer: Display: Using Audio Device Alto-falantes (PRO)
+[2021.06.21-17.27.58:755][983]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.21-17.27.58:755][983]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.21-17.27.58:756][983]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.21-17.27.58:756][983]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.21-17.27.58:756][983]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.21-17.27.58:756][983]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.21-17.27.58:767][983]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.21-17.27.58:767][983]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.21-17.27.58:767][983]LogInit: FAudioDevice initialized.
+[2021.06.21-17.27.58:767][983]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.06.21-17.27.58:817][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-17.27.58:817][983]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.21-17.27.58:819][983]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.06.21-14.27.58
+[2021.06.21-17.27.58:819][983]LogWorld: Bringing up level for play took: 0.000947
+[2021.06.21-17.27.58:819][983]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.06.21-17.27.58:823][983]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.06.21-17.27.58:827][983]PIE: Server logged in
+[2021.06.21-17.27.58:828][983]PIE: Play in editor total start time 0.106 seconds.
+[2021.06.21-17.27.58:875][984]LogRenderer: Reallocating scene render targets to support 1428x720 Format 10 NumSamples 1 (Frame:1).
+[2021.06.21-17.28.06:960][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.21-17.28.06:960][948]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.21-17.28.06:960][948]LogSlate: Window 'Action_RPG_04 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.21-17.28.06:964][948]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-17.28.06:965][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-17.28.06:971][948]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.21-17.28.06:973][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-17.28.06:977][948]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.21-17.28.06:977][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-17.28.06:978][948]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.21-17.28.06:991][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.06.21-17.28.07:024][951]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.06.21-17.31.55:900][850]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.21-17.31.55:908][850]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.21-17.32.15:011][887]LogBlueprint: Warning: [AssetLog] E:\_Arquivos HD\Unreal Projects\Action_RPG_04\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2021.06.21-17.32.15:130][887]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.21-17.32.15:144][887]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.06.21-17.32.15:302][887]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.06.21-17.32.16:064][887]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.21-17.32.16:079][887]LogSlate: Took 0.000517 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.21-17.32.18:144][106]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.06.21-17.32.19:336][247]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.06.21-17.32.21:439][488]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.21-17.32.38:998][565]LogRenderer: Reallocating scene render targets to support 1624x780 Format 10 NumSamples 1 (Frame:1).
+[2021.06.21-17.32.47:107][346]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.06.21-17.32.47:118][346]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.06.21-17.32.47:271][346]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.21-17.32.47:274][346]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.06.21-17.32.56:225][254]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2021.06.21-17.32.56:232][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.21-17.33.02:955][879]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-17.33.02:955][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-17.33.02:992][879]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-17.33.02:993][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-17.33.06:316][183]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2021.06.21-17.33.06:318][183]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.21-17.33.15:512][930]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-17.33.15:512][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-17.33.15:548][930]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-17.33.15:548][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-17.33.19:704][321]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-17.33.19:704][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-17.33.19:712][321]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-17.33.19:712][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-17.33.19:767][321]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-17.33.19:768][321]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-17.33.23:803][744]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.06.21-17.33.23:809][744]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.21-17.33.28:833][214]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-17.33.28:833][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-17.33.28:842][214]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-17.33.28:842][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-17.33.28:896][214]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-17.33.28:896][214]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-17.33.35:068][859]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.06.21-17.33.35:125][860]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2021.06.21-17.33.35:125][860]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2021.06.21-17.33.35:125][860]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2021.06.21-17.33.35:126][860]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.06.21-17.33.35:126][860]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.06.21-17.33.35:126][860]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.06.21-17.33.35:126][860]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.06.21-17.33.35:140][860]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.06.21-17.33.35:153][860]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 34
+[2021.06.21-17.33.35:182][861]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.06.21-17.33.35:219][862]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.06.21-17.33.36:812][966]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 97
+[2021.06.21-17.33.36:874][967]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 87
+[2021.06.21-17.33.37:033][974]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 77
+[2021.06.21-17.33.37:169][984]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 67
+[2021.06.21-17.33.37:189][985]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 58
+[2021.06.21-17.33.37:383][999]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 50
+[2021.06.21-17.33.37:432][  1]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 43
+[2021.06.21-17.33.37:469][  4]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 37
+[2021.06.21-17.33.39:795][176]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 32
+[2021.06.21-17.33.39:890][183]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2021.06.21-17.33.39:933][186]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2021.06.21-17.33.40:199][206]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2021.06.21-17.33.40:316][215]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.06.21-17.33.40:467][226]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.06.21-17.33.40:587][235]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2021.06.21-17.33.40:847][255]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.06.21-17.33.41:237][284]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.06.21-17.33.41:363][294]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.06.21-17.33.41:421][298]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.06.21-17.33.41:445][300]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.06.21-17.33.41:486][301]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2021.06.21-17.33.41:523][305]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.06.21-17.33.41:561][308]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.06.21-17.33.57:723][ 72]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-17.33.57:723][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-17.34.01:942][513]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ActionRPG/Characters/Player/BP_Player.BP_Player
+[2021.06.21-17.34.38:262][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ActionRPG/Characters/Player/BP_Player" FILE="E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/BP_Player.uasset" SILENT=true
+[2021.06.21-17.34.38:320][412]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BP_Player21A2C89445765E9951DD0C8894B81047.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/BP_Player.uasset'
+[2021.06.21-17.34.38:335][412]AssetCheck: New page: Asset Save: BP_Player
+[2021.06.21-17.34.38:335][412]LogContentValidation: Display: Validating Blueprint /Game/ActionRPG/Characters/Player/BP_Player.BP_Player
+[2021.06.21-17.34.44:337][ 58]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player
+[2021.06.21-17.34.44:342][ 58]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.21-17.34.59:425][689]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.06.21-17.35.21:400][248]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BP_Anim_PlayerD44A0AFE4576C286277C56AFAE49487A.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/BP_Anim_Player.uasset'
+[2021.06.21-17.35.21:415][248]AssetCheck: New page: Asset Save: BP_Anim_Player
+[2021.06.21-17.35.21:415][248]LogContentValidation: Display: Validating AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player
+[2021.06.21-17.35.27:223][873]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BP_Anim_PlayerB192633D4822A806828F5090EF1485AC.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/BP_Anim_Player.uasset'
+[2021.06.21-17.35.27:235][873]AssetCheck: New page: Asset Save: BP_Anim_Player
+[2021.06.21-17.35.27:235][873]LogContentValidation: Display: Validating AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player
+[2021.06.21-17.35.27:554][910]BlueprintLog: New page: Compile BP_Anim_Player
+[2021.06.21-17.35.27:691][910]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.06.21-17.35.28:168][949]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BP_Anim_Player005BA73A4F40BCD7C6A734BC5BFA0770.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/BP_Anim_Player.uasset'
+[2021.06.21-17.35.28:177][949]AssetCheck: New page: Asset Save: BP_Anim_Player
+[2021.06.21-17.35.28:177][949]LogContentValidation: Display: Validating AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player
+[2021.06.21-17.35.59:603][190]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BP_Anim_PlayerF3EB22184BDF077801CADA9425A21683.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/BP_Anim_Player.uasset'
+[2021.06.21-17.35.59:613][190]AssetCheck: New page: Asset Save: BP_Anim_Player
+[2021.06.21-17.35.59:613][190]LogContentValidation: Display: Validating AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player
+[2021.06.21-17.36.02:971][583]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BP_Anim_PlayerC11631E7440314C6A2A7E48F2593DA97.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/BP_Anim_Player.uasset'
+[2021.06.21-17.36.02:981][583]AssetCheck: New page: Asset Save: BP_Anim_Player
+[2021.06.21-17.36.02:981][583]LogContentValidation: Display: Validating AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player
+[2021.06.21-17.36.03:336][624]BlueprintLog: New page: Compile BP_Anim_Player
+[2021.06.21-17.36.03:410][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.06.21-17.38.46:805][ 16]BlueprintLog: New page: Compile BP_Anim_Player
+[2021.06.21-17.38.46:847][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.06.21-17.38.47:203][ 37]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BP_Anim_Player8CE8716B4EC899A9BD10168677CB2B4F.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/BP_Anim_Player.uasset'
+[2021.06.21-17.38.47:212][ 37]AssetCheck: New page: Asset Save: BP_Anim_Player
+[2021.06.21-17.38.47:212][ 37]LogContentValidation: Display: Validating AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player
+[2021.06.21-17.39.28:583][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.06.21-17.39.28:586][819]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.024
+[2021.06.21-17.39.28:587][819]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player] ([1] browsable assets)...
+[2021.06.21-17.39.28:597][819]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player]
+[2021.06.21-17.39.28:597][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player]
+[2021.06.21-17.39.28:618][819]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BP_Anim_Player_Auto18A406CF24775386A7CA61797B7E15D65.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Autosaves/Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player_Auto1.uasset'
+[2021.06.21-17.39.28:619][819]LogFileHelpers: Auto-saving content packages took 0.033
+[2021.06.21-18.11.35:673][ 41]BlueprintLog: New page: Compile BP_Anim_Player
+[2021.06.21-18.11.35:714][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.06.21-18.11.36:947][131]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BP_Anim_PlayerE703315744FF101D5ED2E88E9044450F.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/BP_Anim_Player.uasset'
+[2021.06.21-18.11.36:956][131]AssetCheck: New page: Asset Save: BP_Anim_Player
+[2021.06.21-18.11.36:956][131]LogContentValidation: Display: Validating AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player
+[2021.06.21-18.12.05:928][371]BlueprintLog: New page: Compile BP_Anim_Player
+[2021.06.21-18.12.05:967][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.06.21-18.12.06:344][397]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BP_Anim_Player8CD6C65D471043BE32E7FDBC36588665.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/BP_Anim_Player.uasset'
+[2021.06.21-18.12.06:353][397]AssetCheck: New page: Asset Save: BP_Anim_Player
+[2021.06.21-18.12.06:353][397]LogContentValidation: Display: Validating AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player
+[2021.06.21-18.12.33:988][940]LogUObjectGlobals: Warning: Failed to find object 'Object None.LevelToolbarPlay'
+[2021.06.21-18.12.37:631][337]LogSlate: Window 'Tutorials' being destroyed
+[2021.06.21-18.12.37:635][337]LogSlate: Window 'Tutorials' being destroyed
+[2021.06.21-18.12.42:394][829]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.06.21-18.13.30:398][679]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.06.21-18.13.30:402][679]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.21-18.15.47:976][254]LogEditorTransaction: Undo Delete current selection
+[2021.06.21-18.15.48:113][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.21-18.15.48:117][254]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.21-18.17.19:217][ 17]BlueprintLog: New page: Compile BP_Anim_Player
+[2021.06.21-18.17.19:269][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.06.21-18.17.19:767][ 42]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BP_Anim_PlayerE75D2CE14B589D143ABC559D7B1D9E92.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/BP_Anim_Player.uasset'
+[2021.06.21-18.17.19:776][ 42]AssetCheck: New page: Asset Save: BP_Anim_Player
+[2021.06.21-18.17.19:776][ 42]LogContentValidation: Display: Validating AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player
+[2021.06.21-18.19.20:213][694]LogSlate: Window 'AnimGraph' being destroyed
+[2021.06.21-18.21.16:643][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.06.21-18.21.16:646][990]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.032
+[2021.06.21-18.21.16:646][990]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player] ([2] browsable assets)...
+[2021.06.21-18.21.16:665][990]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player]
+[2021.06.21-18.21.16:682][990]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player]
+[2021.06.21-18.21.16:682][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player]
+[2021.06.21-18.21.16:705][990]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BP_Anim_Player_Auto25B41DB0F46ED6E2EB7E141B5714D6B85.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Autosaves/Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player_Auto2.uasset'
+[2021.06.21-18.21.16:734][990]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Mannequin/Animations/ThirdPerson_AnimBP] ([1] browsable assets)...
+[2021.06.21-18.21.16:750][990]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP]
+[2021.06.21-18.21.16:750][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mannequin/Animations/ThirdPerson_AnimBP]
+[2021.06.21-18.21.16:772][990]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/ThirdPerson_AnimBP_Auto20E5D182B4D796291DE8C93A990626F77.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Autosaves/Game/Mannequin/Animations/ThirdPerson_AnimBP_Auto2.uasset'
+[2021.06.21-18.21.16:772][990]LogFileHelpers: Auto-saving content packages took 0.126
+[2021.06.21-18.21.51:409][348]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2021.06.21-18.21.51:412][348]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.21-18.21.53:994][532]LogSlate: Window 'ThirdPersonJump_Start' being destroyed
+[2021.06.21-18.21.54:004][532]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-18.21.54:004][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-18.21.54:011][532]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-18.21.54:012][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-18.21.54:052][532]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-18.21.54:052][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-18.22.21:045][354]BlueprintLog: New page: Compile BP_Anim_Player
+[2021.06.21-18.22.21:124][354]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.06.21-18.28.31:261][ 74]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.06.21-18.28.31:514][ 74]LogContentBrowser: Creating deferred item: NewFolder
+[2021.06.21-18.28.33:204][261]LogContentBrowser: Attempting asset rename: NewFolder -> Jump
+[2021.06.21-18.28.33:205][261]LogContentBrowser: End creating deferred item NewFolder
+[2021.06.21-18.28.43:440][348]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.06.21-18.28.43:455][348]LogContentBrowser: Creating deferred item: NewFolder
+[2021.06.21-18.28.48:482][930]LogContentBrowser: Attempting asset rename: NewFolder -> Walk
+[2021.06.21-18.28.48:483][930]LogContentBrowser: End creating deferred item NewFolder
+[2021.06.21-18.29.02:392][ 51]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.06.21-18.29.02:412][ 51]LogContentBrowser: Creating deferred item: NewFolder
+[2021.06.21-18.29.03:680][199]LogContentBrowser: Attempting asset rename: NewFolder -> Crouch
+[2021.06.21-18.29.03:680][199]LogContentBrowser: End creating deferred item NewFolder
+[2021.06.21-18.29.10:106][753]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Crouch_IdleBA96844E46A87F05E70CDEBCDB0E5BF4.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Crouch/Crouch_Idle.uasset'
+[2021.06.21-18.29.10:120][753]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Crouch_Walk_Back1652588F499B951D09D3DA80445D1B07.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Crouch/Crouch_Walk_Back.uasset'
+[2021.06.21-18.29.10:135][753]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Crouch_Walk_Forward349D9E8943664D1CC3CF508765C0AB3F.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Crouch/Crouch_Walk_Forward.uasset'
+[2021.06.21-18.29.10:149][753]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Crouch_Walk_LeftBD4F95314718821565C8F798BA8052CB.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Crouch/Crouch_Walk_Left.uasset'
+[2021.06.21-18.29.10:162][753]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Crouch_Walk_Right0251A31C45C661C062872E8C6C80D166.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Crouch/Crouch_Walk_Right.uasset'
+[2021.06.21-18.29.10:292][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.06.21-18.29.10:322][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.21-18.29.10:349][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.21-18.29.10:376][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.21-18.29.10:403][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.06.21-18.29.10:437][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.06.21-18.29.10:464][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.21-18.29.10:494][753]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BPS_CrouchE29F57284FE4D031138FDDAC9F094B89.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/BPS_Crouch.uasset'
+[2021.06.21-18.29.10:585][753]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.21-18.29.10:585][753]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Crouch/Crouch_Idle.Crouch_Idle
+[2021.06.21-18.29.10:585][753]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Crouch/Crouch_Walk_Back.Crouch_Walk_Back
+[2021.06.21-18.29.10:585][753]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Crouch/Crouch_Walk_Forward.Crouch_Walk_Forward
+[2021.06.21-18.29.10:586][753]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Crouch/Crouch_Walk_Left.Crouch_Walk_Left
+[2021.06.21-18.29.10:586][753]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Crouch/Crouch_Walk_Right.Crouch_Walk_Right
+[2021.06.21-18.29.10:586][753]LogContentValidation: Display: Validating BlendSpace /Game/ActionRPG/Characters/Player/Animations/BPS_Crouch.BPS_Crouch
+[2021.06.21-18.29.27:115][425]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Walk_Right149F1D064307B6D3D4BD4582E17E35B7.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Walk/Walk_Right.uasset'
+[2021.06.21-18.29.27:129][425]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Diagonal_Forward_LeftC959C2EA4B5F0000BD80AEA296B1F87B.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Walk/Diagonal_Forward_Left.uasset'
+[2021.06.21-18.29.27:143][425]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Diagonal_Forward_RightC6C819524295A27E42B499A03E3F05B7.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Walk/Diagonal_Forward_Right.uasset'
+[2021.06.21-18.29.27:158][425]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/FastRun2DB1728848FC386D0B36A3BFAA76AD8E.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Walk/FastRun.uasset'
+[2021.06.21-18.29.27:172][425]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/IdleB8D7D0834BCDC4E243AB60BE09B3CFC3.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Walk/Idle.uasset'
+[2021.06.21-18.29.27:186][425]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Run_Forward34EAD8684BFCC8524BA15292175B6717.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Walk/Run_Forward.uasset'
+[2021.06.21-18.29.27:202][425]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Walk_Backward61C5901D44286C33DB7684B4AAFF165B.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Walk/Walk_Backward.uasset'
+[2021.06.21-18.29.27:216][425]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Walk_Forward60EB969F486E01115CB9BF85C017E6B1.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Walk/Walk_Forward.uasset'
+[2021.06.21-18.29.27:237][425]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Walk_LeftB410A9534B99FBE43AE3FFBFE3E52C83.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Walk/Walk_Left.uasset'
+[2021.06.21-18.29.27:413][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.06.21-18.29.27:443][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.06.21-18.29.27:469][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.21-18.29.27:495][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.21-18.29.27:522][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.21-18.29.27:548][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.21-18.29.27:575][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.21-18.29.27:602][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.06.21-18.29.27:632][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.21-18.29.27:665][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2021.06.21-18.29.27:693][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.21-18.29.27:735][425]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BPS_WalkF267D5B24F9A91B7974ABDB84D3E6F04.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/BPS_Walk.uasset'
+[2021.06.21-18.29.27:832][425]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.21-18.29.27:832][425]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Walk/Diagonal_Forward_Left.Diagonal_Forward_Left
+[2021.06.21-18.29.27:832][425]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Walk/Diagonal_Forward_Right.Diagonal_Forward_Right
+[2021.06.21-18.29.27:832][425]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Walk/FastRun.FastRun
+[2021.06.21-18.29.27:832][425]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Walk/Idle.Idle
+[2021.06.21-18.29.27:832][425]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Walk/Run_Forward.Run_Forward
+[2021.06.21-18.29.27:832][425]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Walk/Walk_Backward.Walk_Backward
+[2021.06.21-18.29.27:832][425]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Walk/Walk_Forward.Walk_Forward
+[2021.06.21-18.29.27:832][425]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Walk/Walk_Left.Walk_Left
+[2021.06.21-18.29.27:832][425]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Walk/Walk_Right.Walk_Right
+[2021.06.21-18.29.27:832][425]LogContentValidation: Display: Validating BlendSpace /Game/ActionRPG/Characters/Player/Animations/BPS_Walk.BPS_Walk
+[2021.06.21-18.29.40:283][775]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:\ActionRPG\Characters\Player\Animations\Falling_Idle.fbx)
+[2021.06.21-18.29.40:296][775]LogFbx: Loading FBX Scene from F:\ActionRPG\Characters\Player\Animations\Falling_Idle.fbx
+[2021.06.21-18.29.40:315][775]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.21-18.29.45:047][775]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(0) Hips
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(1) Spine
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(2) Spine1
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(3) Spine2
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(4) Neck
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(5) Head
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(8) LeftArm
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(10) LeftHand
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.06.21-18.29.45:059][775]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(31) RightShoulder
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(32) RightArm
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(33) RightForeArm
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(34) RightHand
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(56) LeftLeg
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(57) LeftFoot
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(61) RightLeg
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(62) RightFoot
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(63) RightToeBase
+[2021.06.21-18.29.45:060][775]LogFbx: SortedLinks :(64) RightToe_End
+[2021.06.21-18.29.45:060][775]LogFbx: Parsing AnimStack mixamo.com
+[2021.06.21-18.29.45:162][775]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ActionRPG/Characters/Player/Animations/Jump/Falling_Idle.Falling_Idle
+[2021.06.21-18.29.45:162][775]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ActionRPG/Characters/Player/Animations/Jump/Falling_Idle.Falling_Idle
+[2021.06.21-18.29.45:162][775]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 F:\ActionRPG\Characters\Player\Animations\Jump_Down.fbx)
+[2021.06.21-18.29.45:178][775]LogFbx: Loading FBX Scene from F:\ActionRPG\Characters\Player\Animations\Jump_Down.fbx
+[2021.06.21-18.29.45:196][775]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(0) Hips
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(1) Spine
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(2) Spine1
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(3) Spine2
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(4) Neck
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(5) Head
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(8) LeftArm
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(10) LeftHand
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(31) RightShoulder
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(32) RightArm
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(33) RightForeArm
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(34) RightHand
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(56) LeftLeg
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(57) LeftFoot
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(61) RightLeg
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(62) RightFoot
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(63) RightToeBase
+[2021.06.21-18.29.45:198][775]LogFbx: SortedLinks :(64) RightToe_End
+[2021.06.21-18.29.45:199][775]LogFbx: Parsing AnimStack mixamo.com
+[2021.06.21-18.29.45:256][775]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 F:\ActionRPG\Characters\Player\Animations\Jump_Up.fbx)
+[2021.06.21-18.29.45:309][775]LogFbx: Loading FBX Scene from F:\ActionRPG\Characters\Player\Animations\Jump_Up.fbx
+[2021.06.21-18.29.45:327][775]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(0) Hips
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(1) Spine
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(2) Spine1
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(3) Spine2
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(4) Neck
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(5) Head
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(8) LeftArm
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(10) LeftHand
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(31) RightShoulder
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(32) RightArm
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(33) RightForeArm
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(34) RightHand
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.06.21-18.29.45:328][775]LogFbx: SortedLinks :(39) RightHandIndex1
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(40) RightHandIndex2
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(41) RightHandIndex3
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(42) RightHandIndex4
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(47) RightHandRing1
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(48) RightHandRing2
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(49) RightHandRing3
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(50) RightHandRing4
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(51) RightHandPinky1
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(52) RightHandPinky2
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(53) RightHandPinky3
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(54) RightHandPinky4
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(56) LeftLeg
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(57) LeftFoot
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(61) RightLeg
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(62) RightFoot
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(63) RightToeBase
+[2021.06.21-18.29.45:329][775]LogFbx: SortedLinks :(64) RightToe_End
+[2021.06.21-18.29.45:329][775]LogFbx: Parsing AnimStack mixamo.com
+[2021.06.21-18.29.45:453][776]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ActionRPG/Characters/Player/Animations/Jump/Jump_Up.Jump_Up
+[2021.06.21-18.29.45:453][776]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ActionRPG/Characters/Player/Animations/Jump/Jump_Down.Jump_Down
+[2021.06.21-18.29.47:136][945]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Jump_Up6812540C4EDBA8ECE258AC9CA9D375D2.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Jump/Jump_Up.uasset'
+[2021.06.21-18.29.47:149][945]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Jump_DownF33259F94B465EC6CCABC1AB4C901C38.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Jump/Jump_Down.uasset'
+[2021.06.21-18.29.47:162][945]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Falling_IdleFAFFBC0F4E1C417405665EB0F01B1DCF.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Jump/Falling_Idle.uasset'
+[2021.06.21-18.29.47:180][945]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.21-18.29.47:180][945]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Jump/Jump_Up.Jump_Up
+[2021.06.21-18.29.47:180][945]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Jump/Jump_Down.Jump_Down
+[2021.06.21-18.29.47:180][945]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Jump/Falling_Idle.Falling_Idle
+[2021.06.21-18.29.47:794][ 11]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ActionRPG/Characters/Player/Animations/Jump/Falling_Idle.Falling_Idle
+[2021.06.21-18.29.47:796][ 11]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.21-18.29.49:060][ 92]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ActionRPG/Characters/Player/Animations/Jump/Jump_Down.Jump_Down
+[2021.06.21-18.29.49:120][ 92]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-18.29.49:120][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-18.29.50:727][224]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ActionRPG/Characters/Player/Animations/Jump/Jump_Up.Jump_Up
+[2021.06.21-18.29.50:786][224]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-18.29.50:786][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-18.29.52:955][398]LogSlate: Window 'Jump_Up' being destroyed
+[2021.06.21-18.29.52:962][398]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-18.29.52:962][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-18.29.52:971][398]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-18.29.52:971][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-18.29.53:014][398]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.06.21-18.29.53:014][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.21-18.29.53:447][438]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Jump_Up2E5EAA7C47273EA0D93562B96CA14073.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Jump/Jump_Up.uasset'
+[2021.06.21-18.29.53:456][438]AssetCheck: New page: Asset Save: Jump_Up
+[2021.06.21-18.29.53:456][438]LogContentValidation: Display: Validating AnimSequence /Game/ActionRPG/Characters/Player/Animations/Jump/Jump_Up.Jump_Up
+[2021.06.21-18.30.20:163][927]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.06.21-18.30.20:227][927]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BP_Anim_PlayerD050E77744BA5A0ACFE4388FF10AAFB6.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/BP_Anim_Player.uasset'
+[2021.06.21-18.30.20:236][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_AnimBP" FILE="E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" SILENT=true
+[2021.06.21-18.30.20:257][927]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/ThirdPerson_AnimBPBBF489FE424B60742B65B1A6A04AD240.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2021.06.21-18.30.20:271][927]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.21-18.30.20:271][927]LogContentValidation: Display: Validating AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player
+[2021.06.21-18.30.20:271][927]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.06.21-18.30.20:844][964]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BP_Anim_PlayerEE21EEDB489E402297E951A9D61C5217.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/BP_Anim_Player.uasset'
+[2021.06.21-18.30.20:854][964]AssetCheck: New page: Asset Save: BP_Anim_Player
+[2021.06.21-18.30.20:854][964]LogContentValidation: Display: Validating AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player
+[2021.06.21-18.30.29:758][858]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.06.21-18.30.29:788][858]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/ThirdPersonExampleMapC30D608B4289CB5D0ED7738463B0F637.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.06.21-18.30.29:897][858]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/ThirdPersonExampleMap_BuiltData02217BB147CB926901B896952F3E2BE5.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.06.21-18.30.29:907][858]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.21-18.30.29:907][858]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.06.21-18.30.29:907][858]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.06.21-18.30.30:289][894]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Jump_Up_Montage7D1F78E64842F4BBC63298B85171975E.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Jump/Jump_Up_Montage.uasset'
+[2021.06.21-18.30.30:301][894]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Jump_Down_Montage938096244F05852B46F6A7B8954C4D0B.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Jump/Jump_Down_Montage.uasset'
+[2021.06.21-18.30.30:313][894]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/Falling_Idle_Montage9232DA944A41A13D23BB2AAE4D37D11F.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/Jump/Falling_Idle_Montage.uasset'
+[2021.06.21-18.30.30:333][894]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.21-18.30.30:333][894]LogContentValidation: Display: Validating AnimMontage /Game/ActionRPG/Characters/Player/Animations/Jump/Jump_Up_Montage.Jump_Up_Montage
+[2021.06.21-18.30.30:333][894]LogContentValidation: Display: Validating AnimMontage /Game/ActionRPG/Characters/Player/Animations/Jump/Jump_Down_Montage.Jump_Down_Montage
+[2021.06.21-18.30.30:333][894]LogContentValidation: Display: Validating AnimMontage /Game/ActionRPG/Characters/Player/Animations/Jump/Falling_Idle_Montage.Falling_Idle_Montage
+[2021.06.21-18.30.33:460][242]BlueprintLog: New page: Compile BP_Anim_Player
+[2021.06.21-18.30.33:513][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.06.21-18.30.33:869][260]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/BP_Anim_Player39148A084386C58C8B800FBCA115878E.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/ActionRPG/Characters/Player/Animations/BP_Anim_Player.uasset'
+[2021.06.21-18.30.33:879][260]AssetCheck: New page: Asset Save: BP_Anim_Player
+[2021.06.21-18.30.33:879][260]LogContentValidation: Display: Validating AnimBlueprint /Game/ActionRPG/Characters/Player/Animations/BP_Anim_Player.BP_Anim_Player
+[2021.06.21-18.30.38:809][840]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2021.06.21-18.30.39:684][945]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.06.21-18.30.43:489][373]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2021.06.21-18.30.45:898][612]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.06.21-18.30.56:920][721]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2021.06.21-18.30.56:972][721]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.06.21-18.30.57:363][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_AnimBP" FILE="E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" SILENT=true
+[2021.06.21-18.30.57:384][754]LogSavePackage: Moving 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Saved/ThirdPerson_AnimBP594DA08A474B0A278FC68AAF4839C22F.tmp' to 'E:/_Arquivos HD/Unreal Projects/Action_RPG_04/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2021.06.21-18.30.57:394][754]AssetCheck: New page: Asset Save: ThirdPerson_AnimBP
+[2021.06.21-18.30.57:394][754]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.06.21-18.31.11:462][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.06.21-18.31.13:301][874]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.21-18.31.13:403][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.06.21-18.31.13:431][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.06.21-18.31.13:458][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.06.21-18.31.13:493][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.06.21-18.31.13:521][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.21-18.31.34:705][ 12]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.06.21-18.31.34:705][ 12]LogWindows: Windows GetLastError: A operação foi concluída com êxito. (0)

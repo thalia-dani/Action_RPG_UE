@@ -1,0 +1,3 @@
+/Game/InventorySystem/Blueprints/BP_DroppedItem.Default__BP_DroppedItem_C
+/Game/InventorySystem/Blueprints/BP_DroppedItem.BP_DroppedItem_C
+/Game/InventorySystem/Blueprints/BP_DroppedItem.BP_DroppedItem_C:ExecuteUbergraph_BP_DroppedItem:CallFunc_LookupItem_Info
